@@ -33,7 +33,7 @@
     <properties>
         <springboot.version>1.4.1.RELEASE</springboot.version>
         <!-- https://issues.jboss.org/browse/KEYCLOAK-3669 -->
-        <tomcat.version>8.5.4</tomcat.version>
+        <tomcat.version>10.0.4</tomcat.version>
         <keycloak.version>1.9.8.Final</keycloak.version>
     </properties>
 
